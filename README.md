@@ -1,1 +1,1 @@
-# Chess-CS-NEA
+# Chess
